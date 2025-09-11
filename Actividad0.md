@@ -1,4 +1,2 @@
-# Programacion-Basica-302-I
-## Danna Bonilla Lopez
-## 30/diciembre/2009
-## portafolio de codigo cc+
+
+<img width="702" height="474" alt="image" src="https://github.com/user-attachments/assets/20c87064-2ab5-4aab-93d0-d46164707380" />
